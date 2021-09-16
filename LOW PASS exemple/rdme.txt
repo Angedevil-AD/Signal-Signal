@@ -1,1 +1,1 @@
-Low pass filter prototype in Delphi & C++ 
+Low pass filter prototype in Delphi 
